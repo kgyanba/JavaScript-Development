@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    font-family: "Comic Sans MS",sans-serif;
+}
+h2{
+    background-color: orangered;
+    padding: 10px;
+    text-align: center;
+}
+div{
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
