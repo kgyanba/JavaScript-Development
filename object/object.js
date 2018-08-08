@@ -17,3 +17,5 @@ console.log(xyz.address);
 // delete property
  delete xyz.address;
  console.log(xyz);
+
+ // object coding challenge
