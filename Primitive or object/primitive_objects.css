@@ -1,0 +1,13 @@
+body{
+    font-family: "Comic Sans MS",SansSerif;
+    margin: 0px;
+}
+h1{
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
+#display{
+    background-color: orangered;
+    padding: 20px;
+}
